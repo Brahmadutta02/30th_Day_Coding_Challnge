@@ -1,0 +1,11 @@
+{
+    "name" : "Cricket Result",
+    "version" : "1.0.0",
+    "description" : "A simple web application",
+    "manifest_version" : 3,
+    "author" : "Brahmadutta Dalai",
+    "action" :{
+        "default_popup" : "index.html",
+        "default_title" : "Cricket"
+    }
+}
